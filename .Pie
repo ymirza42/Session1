@@ -1,0 +1,17 @@
+Write a program to input age of user, and let them know if they have diabetes
+# risk or not. use case is that a user with age more than 65 is risky else not
+Age = 55
+if age >= 65
+  Print("This is risky")
+else
+Print("Not risky')
+# Write a program to calculate GST tax of two product, Apple and pie
+# Apple has 10% GST and pie has only 8% GST
+# calculate total GST that need to be deducted from the bill
+# Apple gross sales is $75, pie gross is $100
+Appole = 75
+Pie = 100
+gst_apple = 0.1*apple
+gst_pie = 0.08*pie
+print(gst_apple)
+print(gst_pie)
